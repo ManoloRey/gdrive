@@ -14,8 +14,8 @@ import (
 	"github.com/chips-project/gdrive/drive"
 )
 
-const ClientId = "367116221053-7n0vf5akeru7on6o2fjinrecpdoe99eg.apps.googleusercontent.com"
-const ClientSecret = "1qsNodXNaWq1mQuBjUjmvhoO"
+const ClientId = "413202047318-9sn364sqtmhi7fo60gh55uj4a997mici.apps.googleusercontent.com"
+const ClientSecret = "JTkFFR8PlUtw0qAknc8Cs35t"
 const TokenFilename = "token_v2.json"
 const ClientCredentialsFilename = "client_id.json"
 const DefaultCacheFileName = "file_cache.json"
